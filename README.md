@@ -8,7 +8,7 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Speed Reading Exercises unless otherwise defined in this Privacy Policy. 
 
-### Information Collection and Use
+### Information Collection and Use **Bold**
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
