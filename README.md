@@ -16,7 +16,7 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app 
 
-[. Admob](https://support.google.com/admob/answer/6128543?hl=en)
+[- Admob](https://support.google.com/admob/answer/6128543?hl=en)
 
 ```markdown
 Syntax highlighted code block
